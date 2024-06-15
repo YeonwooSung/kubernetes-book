@@ -40,3 +40,7 @@ Then create the `OperatorGroup`:
 ```bash
 kubectl apply -f operatorgroup.yaml
 ```
+
+## References
+
+- [Operator Lifecycle Manager](https://olm.operatorframework.io/docs/getting-started/)
